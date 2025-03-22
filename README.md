@@ -10,7 +10,7 @@ My Sugar は血糖値管理をサポートする Web アプリです。
 -Vite
 
 ### インストール
-git clone https://github.com/your-repo/my-sugar.git
+git clone https://github.com/J-okubo/my-sugar.git
 
 ### ディレクトリ移動
 cd my-sugar
